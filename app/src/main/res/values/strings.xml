@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!--<string name="title_home">Home</string>-->
+    <!--<string name="title_dashboard">Dashboard</string>-->
+    <!--<string name="title_notifications">Notifications</string>-->
+
+    <string name="title_home">Home</string>
+    <string name="member_list">Member List</string>
+    <string name="events">Events</string>
+    <string name="about_us">About Us</string>
+    <string name="contacts">Contacts</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_user">User</string>
+</resources>
